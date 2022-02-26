@@ -1,4 +1,4 @@
-#
+# **Facial Expression Recognition in Image Sequences**
 
 ## **Overview**
 The goal of this challenge is to develop an algorithm for recognizing facial expressions from video sequences. 
@@ -9,6 +9,7 @@ Each image is in grayscale (1 single channel, with pixels between [0,255]).
 In addition to the images, you can use distributions of characteristic points (called facial landmarks) to analyze facial expressions. 
 Each landmark corresponds to a specific region of the face (e.g. corner of the mouth).
 
+Full discription [here](https://www.kaggle.com/c/fer22/data).
 
 ## **Data**
 For this challenge, we provide two datasets, the TRAIN dataset allowing to train your algorithms (contains 540 sequences of 15 subjects), 
